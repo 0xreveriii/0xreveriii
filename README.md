@@ -1,4 +1,4 @@
-<img width="840" height="845" alt="scuba-scuba-cat-ascii" src="https://github.com/user-attachments/assets/7895888e-c705-4fba-a9f5-e0c15ad172b2" />## Hi there 👋
+<img width="560" height="559" alt="scuba-scuba-cat-ascii" src="https://github.com/user-attachments/assets/ad7c6680-e984-4afc-bea0-9159ee004225" />## Hi there 👋
 
 <!--
 **NeoReveriii/NeoReveriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
