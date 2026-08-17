@@ -2,8 +2,8 @@
 
 <!--
 **NeoReveriii/NeoReveriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Uploading scuba-scuba-cat-ascii.gif…]()
 
+<img width="840" height="845" alt="scuba-scuba-cat-ascii" src="https://github.com/user-attachments/assets/3b6bafaa-f2db-46b5-9539-12f7c3150b3a" />
 
 
 Here are some ideas to get you started:
