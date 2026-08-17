@@ -1,7 +1,10 @@
-## Hi there 👋
+<img width="840" height="845" alt="scuba-scuba-cat-ascii" src="https://github.com/user-attachments/assets/7895888e-c705-4fba-a9f5-e0c15ad172b2" />## Hi there 👋
 
 <!--
 **NeoReveriii/NeoReveriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Uploading scuba-scuba-cat-ascii.gif…]()
+
+
 
 Here are some ideas to get you started:
 
