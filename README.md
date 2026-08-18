@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td width="42%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/ad7c6680-e984-4afc-bea0-9159ee004225" width="260" height="259" alt="Animated ASCII scuba cat" />
+      <img src="./reveriii-animation.gif" width="260" height="259" alt="Animated ASCII scuba cat" />
     </td>
-    <td width="58%" valign="middle">
-      <h1>Hi, I'm<br />Reveriii</h1>
+    <td width="58%" valign="top">
+      <h1>Hi, I'm Reveriii</h1>
       <h2>Full-stack and software developer</h2>
     </td>
   </tr>
