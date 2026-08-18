@@ -1,19 +1,11 @@
-<img width="260" height="259" alt="scuba-scuba-cat-ascii" src="https://github.com/user-attachments/assets/ad7c6680-e984-4afc-bea0-9159ee004225" />
-
-<!--
-**NeoReveriii/NeoReveriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img width="560" height="559" alt="scuba-scuba-cat-ascii" src="https://github.com/user-attachments/assets/ad7c6680-e984-4afc-bea0-9159ee004225" />
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <video src="https://github.com/user-attachments/assets/ad7c6680-e984-4afc-bea0-9159ee004225" width="260" height="259" autoplay loop muted playsinline preload="auto" aria-label="Animated ASCII scuba cat"></video>
+    </td>
+    <td width="58%" valign="middle">
+      <h1>Hi, I'm<br />Reveriii</h1>
+      <h2>Full-stack and software developer</h2>
+    </td>
+  </tr>
+</table>
